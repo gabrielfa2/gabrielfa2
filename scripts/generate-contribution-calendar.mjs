@@ -3,6 +3,7 @@
 // yellow palette. Data comes from the public profile contributions endpoint,
 // so no token or API scope is required.
 import { writeFile } from "node:fs/promises";
+import { extraContributions } from "./extra-contributions.mjs";
 
 const username = process.env.GITHUB_REPOSITORY_OWNER || "gabrielfa2";
 const endpoint = `https://github.com/users/${encodeURIComponent(username)}/contributions`;
@@ -22,7 +23,7 @@ if (!response.ok) {
 
 const html = await response.text();
 
-/** @type {{ date: string, level: number, weekday: number, week: number }[]} */
+/** @type {{ date: string, weekday: number, week: number }[]} */
 const days = [];
 
 for (const match of html.matchAll(/<td\b[^>]*>/g)) {
@@ -30,13 +31,11 @@ for (const match of html.matchAll(/<td\b[^>]*>/g)) {
   const date = tag.match(/data-date="(\d{4}-\d{2}-\d{2})"/)?.[1];
   if (!date) continue;
 
-  const level = Number(tag.match(/data-level="(\d+)"/)?.[1] ?? 0);
   const id = tag.match(/id="contribution-day-component-(\d+)-(\d+)"/);
   if (!id) continue;
 
   days.push({
     date,
-    level,
     weekday: Number(id[1]),
     week: Number(id[2]),
   });
@@ -56,6 +55,25 @@ for (const match of html.matchAll(
     ? 0
     : Number(text.match(/^(\d+)/)?.[1] ?? 0);
   counts.set(match[1], count);
+}
+
+// Extra counts are static data kept in this repository, so the calendar has no
+// runtime dependency on another repository.
+for (const [date, count] of Object.entries(extraContributions)) {
+  if (
+    !/^\d{4}-\d{2}-\d{2}$/.test(date) ||
+    !Number.isInteger(count) ||
+    count < 0
+  ) {
+    throw new Error(`Invalid extra contribution entry: ${date}=${count}`);
+  }
+}
+
+const calendarDates = new Set(days.map((day) => day.date));
+for (const date of Object.keys(extraContributions)) {
+  if (!calendarDates.has(date)) {
+    console.warn(`Extra contribution date outside the calendar window: ${date}`);
+  }
 }
 
 const weeks = [];
@@ -112,13 +130,21 @@ function formatDate(isoDate) {
   });
 }
 
+function contributionLevel(count) {
+  if (count <= 0) return 0;
+  if (count <= 4) return 1;
+  if (count <= 8) return 2;
+  if (count <= 12) return 3;
+  return 4;
+}
+
 function render(palette) {
   const svg = [];
   svg.push(
     `<svg xmlns="http://www.w3.org/2000/svg" width="${WIDTH}" height="${HEIGHT}" viewBox="0 0 ${WIDTH} ${HEIGHT}" role="img" aria-label="Contribution calendar for ${username}">`,
   );
   svg.push(
-    `<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:9px;fill:${palette.text}}.day{transition:transform .12s ease;transform-box:fill-box;transform-origin:center}.day:hover{transform:scale(1.35)}.lit{animation:shimmer 7s ease-in-out infinite}@keyframes shimmer{0%,86%,100%{filter:none}89%{filter:brightness(1.35) saturate(1.25)}92%{filter:none}}@media (prefers-reduced-motion:reduce){.lit{animation:none}.day{transition:none}}</style>`,
+    `<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:9px;fill:${palette.text}}.day{transition:transform .12s ease;transform-box:fill-box;transform-origin:center;animation:day-in .55s cubic-bezier(.22,1,.36,1) backwards}.day:hover{transform:scale(1.35)}.lit{animation:day-in .55s cubic-bezier(.22,1,.36,1) backwards,shimmer 7s ease-in-out infinite}.label,.legend{animation:label-in .5s ease-out backwards}@keyframes day-in{from{opacity:0;scale:.3}to{opacity:1;scale:1}}@keyframes label-in{from{opacity:0}to{opacity:1}}@keyframes shimmer{0%,86%,100%{filter:none}89%{filter:brightness(1.35) saturate(1.25)}92%{filter:none}}@media (prefers-reduced-motion:reduce){.day,.lit,.label,.legend{animation:none}.day{transition:none}}</style>`,
   );
 
   // Month labels sit above the week containing the 1st of each month.
@@ -130,14 +156,14 @@ function render(palette) {
 
     const month = new Date(`${firstOfMonth.date}T00:00:00Z`).getUTCMonth();
     const x = LEFT + week * STEP;
-    svg.push(`<text x="${x}" y="10">${MONTHS[month]}</text>`);
+    svg.push(`<text class="label" x="${x}" y="10">${MONTHS[month]}</text>`);
   }
 
   // Weekday labels.
   for (const [weekday, label] of WEEKDAY_LABELS) {
     const y = TOP + weekday * STEP + 8;
     svg.push(
-      `<text x="${LEFT - 6}" y="${y}" text-anchor="end">${label}</text>`,
+      `<text class="label" x="${LEFT - 6}" y="${y}" text-anchor="end">${label}</text>`,
     );
   }
 
@@ -149,19 +175,26 @@ function render(palette) {
 
       const x = LEFT + week * STEP;
       const y = TOP + weekday * STEP;
-      const count =
+      const githubCount =
         counts.get(`contribution-day-component-${weekday}-${week}`) ?? 0;
+      const count = githubCount + (extraContributions[day.date] ?? 0);
+      const level = contributionLevel(count);
       const title =
         count === 0
           ? `No contributions on ${formatDate(day.date)}`
           : `${count} contribution${count === 1 ? "" : "s"} on ${formatDate(day.date)}`;
 
-      const lit = day.level > 0;
-      // Negative delay starts the wave immediately instead of waiting one cycle.
-      const style = lit ? ` style="animation-delay:${week * 35 - 6230}ms"` : "";
+      const lit = level > 0;
+      // Entry runs as a diagonal sweep from the oldest week to the newest.
+      // Lit squares keep their shimmer as a second animation with a negative
+      // delay so the existing wave starts immediately instead of after a cycle.
+      const enterDelay = week * 12 + weekday * 8;
+      const delays = lit
+        ? `${enterDelay}ms, ${week * 35 - 6230}ms`
+        : `${enterDelay}ms`;
 
       svg.push(
-        `<rect class="day${lit ? " lit" : ""}"${style} x="${x}" y="${y}" width="${CELL}" height="${CELL}" rx="2" fill="${palette.levels[day.level] ?? palette.levels[0]}"><title>${title}</title></rect>`,
+        `<rect class="day${lit ? " lit" : ""}" style="animation-delay:${delays}" x="${x}" y="${y}" width="${CELL}" height="${CELL}" rx="2" fill="${palette.levels[level] ?? palette.levels[0]}"><title>${title}</title></rect>`,
       );
     }
   }
@@ -171,19 +204,20 @@ function render(palette) {
   const squareStep = CELL + 3;
   const squaresWidth = 5 * CELL + 4 * 3;
   const squaresX = WIDTH - 4 - 26 - 4 - squaresWidth;
+  const legendDelay = weeks.length * 12 + 80;
 
   svg.push(
-    `<text x="${squaresX - 6}" y="${legendY + 8}" text-anchor="end">Less</text>`,
+    `<text class="label" x="${squaresX - 6}" y="${legendY + 8}" text-anchor="end" style="animation-delay:${legendDelay}ms">Less</text>`,
   );
 
   for (let level = 0; level < 5; level++) {
     svg.push(
-      `<rect x="${squaresX + level * squareStep}" y="${legendY}" width="${CELL}" height="${CELL}" rx="2" fill="${palette.levels[level]}"/>`,
+      `<rect class="legend" x="${squaresX + level * squareStep}" y="${legendY}" width="${CELL}" height="${CELL}" rx="2" fill="${palette.levels[level]}" style="animation-delay:${legendDelay + level * 40}ms"/>`,
     );
   }
 
   svg.push(
-    `<text x="${WIDTH - 4}" y="${legendY + 8}" text-anchor="end">More</text>`,
+    `<text class="label" x="${WIDTH - 4}" y="${legendY + 8}" text-anchor="end" style="animation-delay:${legendDelay + 200}ms">More</text>`,
   );
   svg.push("</svg>");
 
@@ -193,6 +227,11 @@ function render(palette) {
 await writeFile("contrib-calendar.svg", render(palettes.light));
 await writeFile("contrib-calendar-dark.svg", render(palettes.dark));
 
+const extraTotal = Object.values(extraContributions).reduce(
+  (sum, count) => sum + count,
+  0,
+);
+
 console.log(
-  `Wrote contribution calendars for ${username}: ${days.length} days, ${weeks.length} weeks`,
+  `Wrote contribution calendars for ${username}: ${days.length} days, ${weeks.length} weeks, ${extraTotal} extra contributions`,
 );

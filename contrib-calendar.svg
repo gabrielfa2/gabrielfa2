@@ -1,393 +1,393 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="668" height="128" viewBox="0 0 668 128" role="img" aria-label="Contribution calendar for gabrielfa2">
-<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:9px;fill:#57606a}.day{transition:transform .12s ease;transform-box:fill-box;transform-origin:center}.day:hover{transform:scale(1.35)}.lit{animation:shimmer 7s ease-in-out infinite}@keyframes shimmer{0%,86%,100%{filter:none}89%{filter:brightness(1.35) saturate(1.25)}92%{filter:none}}@media (prefers-reduced-motion:reduce){.lit{animation:none}.day{transition:none}}</style>
-<text x="30" y="10">Nov</text>
-<text x="90" y="10">Dec</text>
-<text x="138" y="10">Jan</text>
-<text x="198" y="10">Feb</text>
-<text x="246" y="10">Mar</text>
-<text x="294" y="10">Apr</text>
-<text x="342" y="10">May</text>
-<text x="402" y="10">Jun</text>
-<text x="450" y="10">Jul</text>
-<text x="498" y="10">Aug</text>
-<text x="558" y="10">Sep</text>
-<text x="606" y="10">Oct</text>
-<text x="24" y="40" text-anchor="end">Mon</text>
-<text x="24" y="64" text-anchor="end">Wed</text>
-<text x="24" y="88" text-anchor="end">Fri</text>
-<rect class="day" x="30" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 26, 2025</title></rect>
-<rect class="day" x="30" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 27, 2025</title></rect>
-<rect class="day" x="30" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 28, 2025</title></rect>
-<rect class="day" x="30" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 29, 2025</title></rect>
-<rect class="day" x="30" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 30, 2025</title></rect>
-<rect class="day" x="30" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 31, 2025</title></rect>
-<rect class="day" x="30" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 1, 2025</title></rect>
-<rect class="day" x="42" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 2, 2025</title></rect>
-<rect class="day" x="42" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 3, 2025</title></rect>
-<rect class="day" x="42" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 4, 2025</title></rect>
-<rect class="day" x="42" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 5, 2025</title></rect>
-<rect class="day" x="42" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 6, 2025</title></rect>
-<rect class="day" x="42" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 7, 2025</title></rect>
-<rect class="day" x="42" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 8, 2025</title></rect>
-<rect class="day" x="54" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 9, 2025</title></rect>
-<rect class="day" x="54" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 10, 2025</title></rect>
-<rect class="day" x="54" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 11, 2025</title></rect>
-<rect class="day" x="54" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 12, 2025</title></rect>
-<rect class="day" x="54" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 13, 2025</title></rect>
-<rect class="day lit" style="animation-delay:-6160ms" x="54" y="80" width="10" height="10" rx="2" fill="#ffc300"><title>10 contributions on November 14, 2025</title></rect>
-<rect class="day" x="54" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 15, 2025</title></rect>
-<rect class="day" x="66" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 16, 2025</title></rect>
-<rect class="day" x="66" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 17, 2025</title></rect>
-<rect class="day" x="66" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 18, 2025</title></rect>
-<rect class="day" x="66" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 19, 2025</title></rect>
-<rect class="day" x="66" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 20, 2025</title></rect>
-<rect class="day" x="66" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 21, 2025</title></rect>
-<rect class="day" x="66" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 22, 2025</title></rect>
-<rect class="day" x="78" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 23, 2025</title></rect>
-<rect class="day lit" style="animation-delay:-6090ms" x="78" y="32" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on November 24, 2025</title></rect>
-<rect class="day lit" style="animation-delay:-6090ms" x="78" y="44" width="10" height="10" rx="2" fill="#fff3b0"><title>4 contributions on November 25, 2025</title></rect>
-<rect class="day lit" style="animation-delay:-6090ms" x="78" y="56" width="10" height="10" rx="2" fill="#fff3b0"><title>3 contributions on November 26, 2025</title></rect>
-<rect class="day lit" style="animation-delay:-6090ms" x="78" y="68" width="10" height="10" rx="2" fill="#ffe066"><title>6 contributions on November 27, 2025</title></rect>
-<rect class="day" x="78" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 28, 2025</title></rect>
-<rect class="day lit" style="animation-delay:-6090ms" x="78" y="92" width="10" height="10" rx="2" fill="#ffe066"><title>5 contributions on November 29, 2025</title></rect>
-<rect class="day" x="90" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 30, 2025</title></rect>
-<rect class="day" x="90" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 1, 2025</title></rect>
-<rect class="day" x="90" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 2, 2025</title></rect>
-<rect class="day" x="90" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 3, 2025</title></rect>
-<rect class="day" x="90" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 4, 2025</title></rect>
-<rect class="day" x="90" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 5, 2025</title></rect>
-<rect class="day" x="90" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 6, 2025</title></rect>
-<rect class="day" x="102" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 7, 2025</title></rect>
-<rect class="day" x="102" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 8, 2025</title></rect>
-<rect class="day" x="102" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 9, 2025</title></rect>
-<rect class="day" x="102" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 10, 2025</title></rect>
-<rect class="day" x="102" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 11, 2025</title></rect>
-<rect class="day" x="102" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 12, 2025</title></rect>
-<rect class="day" x="102" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 13, 2025</title></rect>
-<rect class="day" x="114" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 14, 2025</title></rect>
-<rect class="day" x="114" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 15, 2025</title></rect>
-<rect class="day" x="114" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 16, 2025</title></rect>
-<rect class="day" x="114" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 17, 2025</title></rect>
-<rect class="day" x="114" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 18, 2025</title></rect>
-<rect class="day" x="114" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 19, 2025</title></rect>
-<rect class="day" x="114" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 20, 2025</title></rect>
-<rect class="day" x="126" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 21, 2025</title></rect>
-<rect class="day" x="126" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 22, 2025</title></rect>
-<rect class="day" x="126" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 23, 2025</title></rect>
-<rect class="day" x="126" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 24, 2025</title></rect>
-<rect class="day" x="126" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 25, 2025</title></rect>
-<rect class="day" x="126" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 26, 2025</title></rect>
-<rect class="day" x="126" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 27, 2025</title></rect>
-<rect class="day" x="138" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 28, 2025</title></rect>
-<rect class="day" x="138" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 29, 2025</title></rect>
-<rect class="day" x="138" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 30, 2025</title></rect>
-<rect class="day" x="138" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 31, 2025</title></rect>
-<rect class="day" x="138" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 1, 2026</title></rect>
-<rect class="day" x="138" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 2, 2026</title></rect>
-<rect class="day" x="138" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 3, 2026</title></rect>
-<rect class="day" x="150" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 4, 2026</title></rect>
-<rect class="day" x="150" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 5, 2026</title></rect>
-<rect class="day" x="150" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 6, 2026</title></rect>
-<rect class="day" x="150" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 7, 2026</title></rect>
-<rect class="day" x="150" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 8, 2026</title></rect>
-<rect class="day" x="150" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 9, 2026</title></rect>
-<rect class="day" x="150" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 10, 2026</title></rect>
-<rect class="day" x="162" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 11, 2026</title></rect>
-<rect class="day" x="162" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 12, 2026</title></rect>
-<rect class="day" x="162" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 13, 2026</title></rect>
-<rect class="day" x="162" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 14, 2026</title></rect>
-<rect class="day" x="162" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 15, 2026</title></rect>
-<rect class="day" x="162" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 16, 2026</title></rect>
-<rect class="day" x="162" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 17, 2026</title></rect>
-<rect class="day" x="174" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 18, 2026</title></rect>
-<rect class="day" x="174" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 19, 2026</title></rect>
-<rect class="day" x="174" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 20, 2026</title></rect>
-<rect class="day" x="174" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 21, 2026</title></rect>
-<rect class="day" x="174" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 22, 2026</title></rect>
-<rect class="day" x="174" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 23, 2026</title></rect>
-<rect class="day" x="174" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 24, 2026</title></rect>
-<rect class="day" x="186" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 25, 2026</title></rect>
-<rect class="day" x="186" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 26, 2026</title></rect>
-<rect class="day" x="186" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 27, 2026</title></rect>
-<rect class="day" x="186" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 28, 2026</title></rect>
-<rect class="day" x="186" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 29, 2026</title></rect>
-<rect class="day" x="186" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 30, 2026</title></rect>
-<rect class="day" x="186" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 31, 2026</title></rect>
-<rect class="day" x="198" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 1, 2026</title></rect>
-<rect class="day" x="198" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 2, 2026</title></rect>
-<rect class="day" x="198" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 3, 2026</title></rect>
-<rect class="day" x="198" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 4, 2026</title></rect>
-<rect class="day" x="198" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 5, 2026</title></rect>
-<rect class="day" x="198" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 6, 2026</title></rect>
-<rect class="day" x="198" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 7, 2026</title></rect>
-<rect class="day" x="210" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 8, 2026</title></rect>
-<rect class="day" x="210" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 9, 2026</title></rect>
-<rect class="day" x="210" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 10, 2026</title></rect>
-<rect class="day" x="210" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 11, 2026</title></rect>
-<rect class="day" x="210" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 12, 2026</title></rect>
-<rect class="day" x="210" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 13, 2026</title></rect>
-<rect class="day" x="210" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 14, 2026</title></rect>
-<rect class="day" x="222" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 15, 2026</title></rect>
-<rect class="day" x="222" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 16, 2026</title></rect>
-<rect class="day" x="222" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 17, 2026</title></rect>
-<rect class="day" x="222" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 18, 2026</title></rect>
-<rect class="day" x="222" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 19, 2026</title></rect>
-<rect class="day" x="222" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 20, 2026</title></rect>
-<rect class="day" x="222" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 21, 2026</title></rect>
-<rect class="day" x="234" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 22, 2026</title></rect>
-<rect class="day" x="234" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 23, 2026</title></rect>
-<rect class="day" x="234" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 24, 2026</title></rect>
-<rect class="day" x="234" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 25, 2026</title></rect>
-<rect class="day" x="234" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 26, 2026</title></rect>
-<rect class="day" x="234" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 27, 2026</title></rect>
-<rect class="day" x="234" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 28, 2026</title></rect>
-<rect class="day" x="246" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 1, 2026</title></rect>
-<rect class="day" x="246" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 2, 2026</title></rect>
-<rect class="day" x="246" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 3, 2026</title></rect>
-<rect class="day" x="246" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 4, 2026</title></rect>
-<rect class="day" x="246" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 5, 2026</title></rect>
-<rect class="day" x="246" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 6, 2026</title></rect>
-<rect class="day" x="246" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 7, 2026</title></rect>
-<rect class="day" x="258" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 8, 2026</title></rect>
-<rect class="day" x="258" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 9, 2026</title></rect>
-<rect class="day" x="258" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 10, 2026</title></rect>
-<rect class="day" x="258" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 11, 2026</title></rect>
-<rect class="day" x="258" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 12, 2026</title></rect>
-<rect class="day" x="258" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 13, 2026</title></rect>
-<rect class="day" x="258" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 14, 2026</title></rect>
-<rect class="day" x="270" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 15, 2026</title></rect>
-<rect class="day" x="270" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 16, 2026</title></rect>
-<rect class="day" x="270" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 17, 2026</title></rect>
-<rect class="day" x="270" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 18, 2026</title></rect>
-<rect class="day" x="270" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 19, 2026</title></rect>
-<rect class="day" x="270" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 20, 2026</title></rect>
-<rect class="day" x="270" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 21, 2026</title></rect>
-<rect class="day" x="282" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 22, 2026</title></rect>
-<rect class="day" x="282" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 23, 2026</title></rect>
-<rect class="day" x="282" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 24, 2026</title></rect>
-<rect class="day" x="282" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 25, 2026</title></rect>
-<rect class="day" x="282" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 26, 2026</title></rect>
-<rect class="day" x="282" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 27, 2026</title></rect>
-<rect class="day" x="282" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 28, 2026</title></rect>
-<rect class="day" x="294" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 29, 2026</title></rect>
-<rect class="day" x="294" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 30, 2026</title></rect>
-<rect class="day" x="294" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 31, 2026</title></rect>
-<rect class="day" x="294" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 1, 2026</title></rect>
-<rect class="day" x="294" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 2, 2026</title></rect>
-<rect class="day" x="294" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 3, 2026</title></rect>
-<rect class="day" x="294" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 4, 2026</title></rect>
-<rect class="day" x="306" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 5, 2026</title></rect>
-<rect class="day" x="306" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 6, 2026</title></rect>
-<rect class="day" x="306" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 7, 2026</title></rect>
-<rect class="day" x="306" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 8, 2026</title></rect>
-<rect class="day" x="306" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 9, 2026</title></rect>
-<rect class="day" x="306" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 10, 2026</title></rect>
-<rect class="day" x="306" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 11, 2026</title></rect>
-<rect class="day" x="318" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 12, 2026</title></rect>
-<rect class="day" x="318" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 13, 2026</title></rect>
-<rect class="day" x="318" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 14, 2026</title></rect>
-<rect class="day" x="318" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 15, 2026</title></rect>
-<rect class="day" x="318" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 16, 2026</title></rect>
-<rect class="day" x="318" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 17, 2026</title></rect>
-<rect class="day" x="318" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 18, 2026</title></rect>
-<rect class="day" x="330" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 19, 2026</title></rect>
-<rect class="day" x="330" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 20, 2026</title></rect>
-<rect class="day" x="330" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 21, 2026</title></rect>
-<rect class="day" x="330" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 22, 2026</title></rect>
-<rect class="day" x="330" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 23, 2026</title></rect>
-<rect class="day" x="330" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 24, 2026</title></rect>
-<rect class="day" x="330" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 25, 2026</title></rect>
-<rect class="day" x="342" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 26, 2026</title></rect>
-<rect class="day" x="342" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 27, 2026</title></rect>
-<rect class="day" x="342" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 28, 2026</title></rect>
-<rect class="day" x="342" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 29, 2026</title></rect>
-<rect class="day" x="342" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 30, 2026</title></rect>
-<rect class="day" x="342" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 1, 2026</title></rect>
-<rect class="day" x="342" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 2, 2026</title></rect>
-<rect class="day" x="354" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 3, 2026</title></rect>
-<rect class="day" x="354" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 4, 2026</title></rect>
-<rect class="day" x="354" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 5, 2026</title></rect>
-<rect class="day" x="354" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 6, 2026</title></rect>
-<rect class="day" x="354" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 7, 2026</title></rect>
-<rect class="day" x="354" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 8, 2026</title></rect>
-<rect class="day" x="354" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 9, 2026</title></rect>
-<rect class="day" x="366" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 10, 2026</title></rect>
-<rect class="day" x="366" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 11, 2026</title></rect>
-<rect class="day" x="366" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 12, 2026</title></rect>
-<rect class="day" x="366" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 13, 2026</title></rect>
-<rect class="day" x="366" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 14, 2026</title></rect>
-<rect class="day" x="366" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 15, 2026</title></rect>
-<rect class="day" x="366" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 16, 2026</title></rect>
-<rect class="day" x="378" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 17, 2026</title></rect>
-<rect class="day" x="378" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 18, 2026</title></rect>
-<rect class="day" x="378" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 19, 2026</title></rect>
-<rect class="day" x="378" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 20, 2026</title></rect>
-<rect class="day" x="378" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 21, 2026</title></rect>
-<rect class="day" x="378" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 22, 2026</title></rect>
-<rect class="day" x="378" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 23, 2026</title></rect>
-<rect class="day" x="390" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 24, 2026</title></rect>
-<rect class="day" x="390" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 25, 2026</title></rect>
-<rect class="day" x="390" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 26, 2026</title></rect>
-<rect class="day" x="390" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 27, 2026</title></rect>
-<rect class="day" x="390" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 28, 2026</title></rect>
-<rect class="day" x="390" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 29, 2026</title></rect>
-<rect class="day" x="390" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 30, 2026</title></rect>
-<rect class="day" x="402" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 31, 2026</title></rect>
-<rect class="day" x="402" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 1, 2026</title></rect>
-<rect class="day" x="402" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 2, 2026</title></rect>
-<rect class="day" x="402" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 3, 2026</title></rect>
-<rect class="day" x="402" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 4, 2026</title></rect>
-<rect class="day" x="402" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 5, 2026</title></rect>
-<rect class="day" x="402" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 6, 2026</title></rect>
-<rect class="day" x="414" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 7, 2026</title></rect>
-<rect class="day" x="414" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 8, 2026</title></rect>
-<rect class="day" x="414" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 9, 2026</title></rect>
-<rect class="day" x="414" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 10, 2026</title></rect>
-<rect class="day" x="414" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 11, 2026</title></rect>
-<rect class="day" x="414" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 12, 2026</title></rect>
-<rect class="day" x="414" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 13, 2026</title></rect>
-<rect class="day" x="426" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 14, 2026</title></rect>
-<rect class="day" x="426" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 15, 2026</title></rect>
-<rect class="day" x="426" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 16, 2026</title></rect>
-<rect class="day" x="426" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 17, 2026</title></rect>
-<rect class="day" x="426" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 18, 2026</title></rect>
-<rect class="day" x="426" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 19, 2026</title></rect>
-<rect class="day" x="426" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 20, 2026</title></rect>
-<rect class="day" x="438" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 21, 2026</title></rect>
-<rect class="day" x="438" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 22, 2026</title></rect>
-<rect class="day" x="438" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 23, 2026</title></rect>
-<rect class="day" x="438" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 24, 2026</title></rect>
-<rect class="day" x="438" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 25, 2026</title></rect>
-<rect class="day" x="438" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 26, 2026</title></rect>
-<rect class="day" x="438" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 27, 2026</title></rect>
-<rect class="day" x="450" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 28, 2026</title></rect>
-<rect class="day" x="450" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 29, 2026</title></rect>
-<rect class="day" x="450" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 30, 2026</title></rect>
-<rect class="day" x="450" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 1, 2026</title></rect>
-<rect class="day" x="450" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 2, 2026</title></rect>
-<rect class="day" x="450" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 3, 2026</title></rect>
-<rect class="day" x="450" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 4, 2026</title></rect>
-<rect class="day" x="462" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 5, 2026</title></rect>
-<rect class="day" x="462" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 6, 2026</title></rect>
-<rect class="day" x="462" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 7, 2026</title></rect>
-<rect class="day" x="462" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 8, 2026</title></rect>
-<rect class="day" x="462" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 9, 2026</title></rect>
-<rect class="day" x="462" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 10, 2026</title></rect>
-<rect class="day" x="462" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 11, 2026</title></rect>
-<rect class="day" x="474" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 12, 2026</title></rect>
-<rect class="day" x="474" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 13, 2026</title></rect>
-<rect class="day" x="474" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 14, 2026</title></rect>
-<rect class="day" x="474" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 15, 2026</title></rect>
-<rect class="day" x="474" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 16, 2026</title></rect>
-<rect class="day" x="474" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 17, 2026</title></rect>
-<rect class="day" x="474" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 18, 2026</title></rect>
-<rect class="day" x="486" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 19, 2026</title></rect>
-<rect class="day" x="486" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 20, 2026</title></rect>
-<rect class="day" x="486" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 21, 2026</title></rect>
-<rect class="day" x="486" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 22, 2026</title></rect>
-<rect class="day" x="486" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 23, 2026</title></rect>
-<rect class="day" x="486" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 24, 2026</title></rect>
-<rect class="day" x="486" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 25, 2026</title></rect>
-<rect class="day" x="498" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 26, 2026</title></rect>
-<rect class="day" x="498" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 27, 2026</title></rect>
-<rect class="day" x="498" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 28, 2026</title></rect>
-<rect class="day" x="498" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 29, 2026</title></rect>
-<rect class="day" x="498" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 30, 2026</title></rect>
-<rect class="day" x="498" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 31, 2026</title></rect>
-<rect class="day" x="498" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 1, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4830ms" x="510" y="20" width="10" height="10" rx="2" fill="#fff3b0"><title>4 contributions on August 2, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4830ms" x="510" y="32" width="10" height="10" rx="2" fill="#ffc300"><title>12 contributions on August 3, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4830ms" x="510" y="44" width="10" height="10" rx="2" fill="#e09f00"><title>15 contributions on August 4, 2026</title></rect>
-<rect class="day" x="510" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 5, 2026</title></rect>
-<rect class="day" x="510" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 6, 2026</title></rect>
-<rect class="day" x="510" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 7, 2026</title></rect>
-<rect class="day" x="510" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 8, 2026</title></rect>
-<rect class="day" x="522" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 9, 2026</title></rect>
-<rect class="day" x="522" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 10, 2026</title></rect>
-<rect class="day" x="522" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 11, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4795ms" x="522" y="56" width="10" height="10" rx="2" fill="#e09f00"><title>17 contributions on August 12, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4795ms" x="522" y="68" width="10" height="10" rx="2" fill="#ffe066"><title>7 contributions on August 13, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4795ms" x="522" y="80" width="10" height="10" rx="2" fill="#ffc300"><title>10 contributions on August 14, 2026</title></rect>
-<rect class="day" x="522" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 15, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4760ms" x="534" y="20" width="10" height="10" rx="2" fill="#fff3b0"><title>3 contributions on August 16, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4760ms" x="534" y="32" width="10" height="10" rx="2" fill="#fff3b0"><title>3 contributions on August 17, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4760ms" x="534" y="44" width="10" height="10" rx="2" fill="#e09f00"><title>14 contributions on August 18, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4760ms" x="534" y="56" width="10" height="10" rx="2" fill="#ffe066"><title>8 contributions on August 19, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4760ms" x="534" y="68" width="10" height="10" rx="2" fill="#e09f00"><title>16 contributions on August 20, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4760ms" x="534" y="80" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on August 21, 2026</title></rect>
-<rect class="day" x="534" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 22, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4725ms" x="546" y="20" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on August 23, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4725ms" x="546" y="32" width="10" height="10" rx="2" fill="#ffe066"><title>8 contributions on August 24, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4725ms" x="546" y="44" width="10" height="10" rx="2" fill="#fff3b0"><title>3 contributions on August 25, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4725ms" x="546" y="56" width="10" height="10" rx="2" fill="#ffe066"><title>5 contributions on August 26, 2026</title></rect>
-<rect class="day" x="546" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 27, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4725ms" x="546" y="80" width="10" height="10" rx="2" fill="#ffc300"><title>10 contributions on August 28, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4725ms" x="546" y="92" width="10" height="10" rx="2" fill="#ffc300"><title>12 contributions on August 29, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4690ms" x="558" y="20" width="10" height="10" rx="2" fill="#ffe066"><title>6 contributions on August 30, 2026</title></rect>
-<rect class="day" x="558" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 31, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4690ms" x="558" y="44" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on September 1, 2026</title></rect>
-<rect class="day" x="558" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 2, 2026</title></rect>
-<rect class="day" x="558" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 3, 2026</title></rect>
-<rect class="day" x="558" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 4, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4690ms" x="558" y="92" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on September 5, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4655ms" x="570" y="20" width="10" height="10" rx="2" fill="#ffc300"><title>11 contributions on September 6, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4655ms" x="570" y="32" width="10" height="10" rx="2" fill="#ffe066"><title>8 contributions on September 7, 2026</title></rect>
-<rect class="day" x="570" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 8, 2026</title></rect>
-<rect class="day" x="570" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 9, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4655ms" x="570" y="68" width="10" height="10" rx="2" fill="#fff3b0"><title>3 contributions on September 10, 2026</title></rect>
-<rect class="day" x="570" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 11, 2026</title></rect>
-<rect class="day" x="570" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 12, 2026</title></rect>
-<rect class="day" x="582" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 13, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4620ms" x="582" y="32" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on September 14, 2026</title></rect>
-<rect class="day" x="582" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 15, 2026</title></rect>
-<rect class="day" x="582" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 16, 2026</title></rect>
-<rect class="day" x="582" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 17, 2026</title></rect>
-<rect class="day" x="582" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 18, 2026</title></rect>
-<rect class="day" x="582" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 19, 2026</title></rect>
-<rect class="day" x="594" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 20, 2026</title></rect>
-<rect class="day" x="594" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 21, 2026</title></rect>
-<rect class="day" x="594" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 22, 2026</title></rect>
-<rect class="day" x="594" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 23, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4585ms" x="594" y="68" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on September 24, 2026</title></rect>
-<rect class="day" x="594" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 25, 2026</title></rect>
-<rect class="day" x="594" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 26, 2026</title></rect>
-<rect class="day" x="606" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 27, 2026</title></rect>
-<rect class="day" x="606" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 28, 2026</title></rect>
-<rect class="day" x="606" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 29, 2026</title></rect>
-<rect class="day" x="606" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 30, 2026</title></rect>
-<rect class="day" x="606" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 1, 2026</title></rect>
-<rect class="day" x="606" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 2, 2026</title></rect>
-<rect class="day" x="606" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 3, 2026</title></rect>
-<rect class="day" x="618" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 4, 2026</title></rect>
-<rect class="day" x="618" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 5, 2026</title></rect>
-<rect class="day" x="618" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 6, 2026</title></rect>
-<rect class="day" x="618" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 7, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4515ms" x="618" y="68" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on October 8, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4515ms" x="618" y="80" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on October 9, 2026</title></rect>
-<rect class="day" x="618" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 10, 2026</title></rect>
-<rect class="day" x="630" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 11, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4480ms" x="630" y="32" width="10" height="10" rx="2" fill="#fff3b0"><title>2 contributions on October 12, 2026</title></rect>
-<rect class="day" x="630" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 13, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4480ms" x="630" y="56" width="10" height="10" rx="2" fill="#fff3b0"><title>3 contributions on October 14, 2026</title></rect>
-<rect class="day" x="630" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 15, 2026</title></rect>
-<rect class="day" x="630" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 16, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4480ms" x="630" y="92" width="10" height="10" rx="2" fill="#e09f00"><title>14 contributions on October 17, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4445ms" x="642" y="20" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on October 18, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4445ms" x="642" y="32" width="10" height="10" rx="2" fill="#ffe066"><title>8 contributions on October 19, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4445ms" x="642" y="44" width="10" height="10" rx="2" fill="#fff3b0"><title>4 contributions on October 20, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4445ms" x="642" y="56" width="10" height="10" rx="2" fill="#ffe066"><title>7 contributions on October 21, 2026</title></rect>
-<rect class="day" x="642" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 22, 2026</title></rect>
-<rect class="day" x="642" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 23, 2026</title></rect>
-<rect class="day" x="642" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 24, 2026</title></rect>
-<rect class="day" x="654" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 25, 2026</title></rect>
-<rect class="day" x="654" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 26, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4410ms" x="654" y="44" width="10" height="10" rx="2" fill="#ffe066"><title>6 contributions on October 27, 2026</title></rect>
-<rect class="day lit" style="animation-delay:-4410ms" x="654" y="56" width="10" height="10" rx="2" fill="#ffe066"><title>7 contributions on October 28, 2026</title></rect>
-<text x="566" y="118" text-anchor="end">Less</text>
-<rect x="572" y="110" width="10" height="10" rx="2" fill="#ebedf0"/>
-<rect x="585" y="110" width="10" height="10" rx="2" fill="#fff3b0"/>
-<rect x="598" y="110" width="10" height="10" rx="2" fill="#ffe066"/>
-<rect x="611" y="110" width="10" height="10" rx="2" fill="#ffc300"/>
-<rect x="624" y="110" width="10" height="10" rx="2" fill="#e09f00"/>
-<text x="664" y="118" text-anchor="end">More</text>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:9px;fill:#57606a}.day{transition:transform .12s ease;transform-box:fill-box;transform-origin:center;animation:day-in .55s cubic-bezier(.22,1,.36,1) backwards}.day:hover{transform:scale(1.35)}.lit{animation:day-in .55s cubic-bezier(.22,1,.36,1) backwards,shimmer 7s ease-in-out infinite}.label,.legend{animation:label-in .5s ease-out backwards}@keyframes day-in{from{opacity:0;scale:.3}to{opacity:1;scale:1}}@keyframes label-in{from{opacity:0}to{opacity:1}}@keyframes shimmer{0%,86%,100%{filter:none}89%{filter:brightness(1.35) saturate(1.25)}92%{filter:none}}@media (prefers-reduced-motion:reduce){.day,.lit,.label,.legend{animation:none}.day{transition:none}}</style>
+<text class="label" x="30" y="10">Nov</text>
+<text class="label" x="90" y="10">Dec</text>
+<text class="label" x="138" y="10">Jan</text>
+<text class="label" x="198" y="10">Feb</text>
+<text class="label" x="246" y="10">Mar</text>
+<text class="label" x="294" y="10">Apr</text>
+<text class="label" x="342" y="10">May</text>
+<text class="label" x="402" y="10">Jun</text>
+<text class="label" x="450" y="10">Jul</text>
+<text class="label" x="498" y="10">Aug</text>
+<text class="label" x="558" y="10">Sep</text>
+<text class="label" x="606" y="10">Oct</text>
+<text class="label" x="24" y="40" text-anchor="end">Mon</text>
+<text class="label" x="24" y="64" text-anchor="end">Wed</text>
+<text class="label" x="24" y="88" text-anchor="end">Fri</text>
+<rect class="day" style="animation-delay:0ms" x="30" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 26, 2025</title></rect>
+<rect class="day" style="animation-delay:8ms" x="30" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 27, 2025</title></rect>
+<rect class="day" style="animation-delay:16ms" x="30" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 28, 2025</title></rect>
+<rect class="day" style="animation-delay:24ms" x="30" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 29, 2025</title></rect>
+<rect class="day" style="animation-delay:32ms" x="30" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 30, 2025</title></rect>
+<rect class="day" style="animation-delay:40ms" x="30" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 31, 2025</title></rect>
+<rect class="day" style="animation-delay:48ms" x="30" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 1, 2025</title></rect>
+<rect class="day" style="animation-delay:12ms" x="42" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 2, 2025</title></rect>
+<rect class="day" style="animation-delay:20ms" x="42" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 3, 2025</title></rect>
+<rect class="day" style="animation-delay:28ms" x="42" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 4, 2025</title></rect>
+<rect class="day" style="animation-delay:36ms" x="42" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 5, 2025</title></rect>
+<rect class="day" style="animation-delay:44ms" x="42" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 6, 2025</title></rect>
+<rect class="day" style="animation-delay:52ms" x="42" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 7, 2025</title></rect>
+<rect class="day" style="animation-delay:60ms" x="42" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 8, 2025</title></rect>
+<rect class="day" style="animation-delay:24ms" x="54" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 9, 2025</title></rect>
+<rect class="day" style="animation-delay:32ms" x="54" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 10, 2025</title></rect>
+<rect class="day" style="animation-delay:40ms" x="54" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 11, 2025</title></rect>
+<rect class="day" style="animation-delay:48ms" x="54" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 12, 2025</title></rect>
+<rect class="day" style="animation-delay:56ms" x="54" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 13, 2025</title></rect>
+<rect class="day lit" style="animation-delay:64ms, -6160ms" x="54" y="80" width="10" height="10" rx="2" fill="#ffc300"><title>10 contributions on November 14, 2025</title></rect>
+<rect class="day" style="animation-delay:72ms" x="54" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 15, 2025</title></rect>
+<rect class="day" style="animation-delay:36ms" x="66" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 16, 2025</title></rect>
+<rect class="day" style="animation-delay:44ms" x="66" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 17, 2025</title></rect>
+<rect class="day" style="animation-delay:52ms" x="66" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 18, 2025</title></rect>
+<rect class="day" style="animation-delay:60ms" x="66" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 19, 2025</title></rect>
+<rect class="day" style="animation-delay:68ms" x="66" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 20, 2025</title></rect>
+<rect class="day" style="animation-delay:76ms" x="66" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 21, 2025</title></rect>
+<rect class="day" style="animation-delay:84ms" x="66" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 22, 2025</title></rect>
+<rect class="day" style="animation-delay:48ms" x="78" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 23, 2025</title></rect>
+<rect class="day lit" style="animation-delay:56ms, -6090ms" x="78" y="32" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on November 24, 2025</title></rect>
+<rect class="day lit" style="animation-delay:64ms, -6090ms" x="78" y="44" width="10" height="10" rx="2" fill="#fff3b0"><title>4 contributions on November 25, 2025</title></rect>
+<rect class="day lit" style="animation-delay:72ms, -6090ms" x="78" y="56" width="10" height="10" rx="2" fill="#fff3b0"><title>3 contributions on November 26, 2025</title></rect>
+<rect class="day lit" style="animation-delay:80ms, -6090ms" x="78" y="68" width="10" height="10" rx="2" fill="#ffe066"><title>6 contributions on November 27, 2025</title></rect>
+<rect class="day" style="animation-delay:88ms" x="78" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 28, 2025</title></rect>
+<rect class="day lit" style="animation-delay:96ms, -6090ms" x="78" y="92" width="10" height="10" rx="2" fill="#ffe066"><title>5 contributions on November 29, 2025</title></rect>
+<rect class="day" style="animation-delay:60ms" x="90" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 30, 2025</title></rect>
+<rect class="day" style="animation-delay:68ms" x="90" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 1, 2025</title></rect>
+<rect class="day" style="animation-delay:76ms" x="90" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 2, 2025</title></rect>
+<rect class="day" style="animation-delay:84ms" x="90" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 3, 2025</title></rect>
+<rect class="day" style="animation-delay:92ms" x="90" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 4, 2025</title></rect>
+<rect class="day" style="animation-delay:100ms" x="90" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 5, 2025</title></rect>
+<rect class="day" style="animation-delay:108ms" x="90" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 6, 2025</title></rect>
+<rect class="day" style="animation-delay:72ms" x="102" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 7, 2025</title></rect>
+<rect class="day" style="animation-delay:80ms" x="102" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 8, 2025</title></rect>
+<rect class="day" style="animation-delay:88ms" x="102" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 9, 2025</title></rect>
+<rect class="day" style="animation-delay:96ms" x="102" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 10, 2025</title></rect>
+<rect class="day" style="animation-delay:104ms" x="102" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 11, 2025</title></rect>
+<rect class="day" style="animation-delay:112ms" x="102" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 12, 2025</title></rect>
+<rect class="day" style="animation-delay:120ms" x="102" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 13, 2025</title></rect>
+<rect class="day" style="animation-delay:84ms" x="114" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 14, 2025</title></rect>
+<rect class="day" style="animation-delay:92ms" x="114" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 15, 2025</title></rect>
+<rect class="day" style="animation-delay:100ms" x="114" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 16, 2025</title></rect>
+<rect class="day" style="animation-delay:108ms" x="114" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 17, 2025</title></rect>
+<rect class="day" style="animation-delay:116ms" x="114" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 18, 2025</title></rect>
+<rect class="day" style="animation-delay:124ms" x="114" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 19, 2025</title></rect>
+<rect class="day" style="animation-delay:132ms" x="114" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 20, 2025</title></rect>
+<rect class="day" style="animation-delay:96ms" x="126" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 21, 2025</title></rect>
+<rect class="day" style="animation-delay:104ms" x="126" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 22, 2025</title></rect>
+<rect class="day" style="animation-delay:112ms" x="126" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 23, 2025</title></rect>
+<rect class="day" style="animation-delay:120ms" x="126" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 24, 2025</title></rect>
+<rect class="day" style="animation-delay:128ms" x="126" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 25, 2025</title></rect>
+<rect class="day" style="animation-delay:136ms" x="126" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 26, 2025</title></rect>
+<rect class="day" style="animation-delay:144ms" x="126" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 27, 2025</title></rect>
+<rect class="day" style="animation-delay:108ms" x="138" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 28, 2025</title></rect>
+<rect class="day" style="animation-delay:116ms" x="138" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 29, 2025</title></rect>
+<rect class="day" style="animation-delay:124ms" x="138" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 30, 2025</title></rect>
+<rect class="day" style="animation-delay:132ms" x="138" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on December 31, 2025</title></rect>
+<rect class="day" style="animation-delay:140ms" x="138" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 1, 2026</title></rect>
+<rect class="day" style="animation-delay:148ms" x="138" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 2, 2026</title></rect>
+<rect class="day" style="animation-delay:156ms" x="138" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 3, 2026</title></rect>
+<rect class="day" style="animation-delay:120ms" x="150" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 4, 2026</title></rect>
+<rect class="day" style="animation-delay:128ms" x="150" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 5, 2026</title></rect>
+<rect class="day" style="animation-delay:136ms" x="150" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 6, 2026</title></rect>
+<rect class="day" style="animation-delay:144ms" x="150" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 7, 2026</title></rect>
+<rect class="day" style="animation-delay:152ms" x="150" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 8, 2026</title></rect>
+<rect class="day" style="animation-delay:160ms" x="150" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 9, 2026</title></rect>
+<rect class="day" style="animation-delay:168ms" x="150" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 10, 2026</title></rect>
+<rect class="day" style="animation-delay:132ms" x="162" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 11, 2026</title></rect>
+<rect class="day" style="animation-delay:140ms" x="162" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 12, 2026</title></rect>
+<rect class="day" style="animation-delay:148ms" x="162" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 13, 2026</title></rect>
+<rect class="day" style="animation-delay:156ms" x="162" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 14, 2026</title></rect>
+<rect class="day" style="animation-delay:164ms" x="162" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 15, 2026</title></rect>
+<rect class="day" style="animation-delay:172ms" x="162" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 16, 2026</title></rect>
+<rect class="day" style="animation-delay:180ms" x="162" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 17, 2026</title></rect>
+<rect class="day" style="animation-delay:144ms" x="174" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 18, 2026</title></rect>
+<rect class="day" style="animation-delay:152ms" x="174" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 19, 2026</title></rect>
+<rect class="day" style="animation-delay:160ms" x="174" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 20, 2026</title></rect>
+<rect class="day" style="animation-delay:168ms" x="174" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 21, 2026</title></rect>
+<rect class="day" style="animation-delay:176ms" x="174" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 22, 2026</title></rect>
+<rect class="day" style="animation-delay:184ms" x="174" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 23, 2026</title></rect>
+<rect class="day" style="animation-delay:192ms" x="174" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 24, 2026</title></rect>
+<rect class="day" style="animation-delay:156ms" x="186" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 25, 2026</title></rect>
+<rect class="day" style="animation-delay:164ms" x="186" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 26, 2026</title></rect>
+<rect class="day" style="animation-delay:172ms" x="186" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 27, 2026</title></rect>
+<rect class="day" style="animation-delay:180ms" x="186" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 28, 2026</title></rect>
+<rect class="day" style="animation-delay:188ms" x="186" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 29, 2026</title></rect>
+<rect class="day" style="animation-delay:196ms" x="186" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 30, 2026</title></rect>
+<rect class="day" style="animation-delay:204ms" x="186" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on January 31, 2026</title></rect>
+<rect class="day" style="animation-delay:168ms" x="198" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 1, 2026</title></rect>
+<rect class="day" style="animation-delay:176ms" x="198" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 2, 2026</title></rect>
+<rect class="day" style="animation-delay:184ms" x="198" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 3, 2026</title></rect>
+<rect class="day" style="animation-delay:192ms" x="198" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 4, 2026</title></rect>
+<rect class="day" style="animation-delay:200ms" x="198" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 5, 2026</title></rect>
+<rect class="day" style="animation-delay:208ms" x="198" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 6, 2026</title></rect>
+<rect class="day" style="animation-delay:216ms" x="198" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 7, 2026</title></rect>
+<rect class="day" style="animation-delay:180ms" x="210" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 8, 2026</title></rect>
+<rect class="day" style="animation-delay:188ms" x="210" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 9, 2026</title></rect>
+<rect class="day" style="animation-delay:196ms" x="210" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 10, 2026</title></rect>
+<rect class="day" style="animation-delay:204ms" x="210" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 11, 2026</title></rect>
+<rect class="day" style="animation-delay:212ms" x="210" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 12, 2026</title></rect>
+<rect class="day" style="animation-delay:220ms" x="210" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 13, 2026</title></rect>
+<rect class="day" style="animation-delay:228ms" x="210" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 14, 2026</title></rect>
+<rect class="day" style="animation-delay:192ms" x="222" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 15, 2026</title></rect>
+<rect class="day" style="animation-delay:200ms" x="222" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 16, 2026</title></rect>
+<rect class="day" style="animation-delay:208ms" x="222" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 17, 2026</title></rect>
+<rect class="day" style="animation-delay:216ms" x="222" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 18, 2026</title></rect>
+<rect class="day" style="animation-delay:224ms" x="222" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 19, 2026</title></rect>
+<rect class="day" style="animation-delay:232ms" x="222" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 20, 2026</title></rect>
+<rect class="day" style="animation-delay:240ms" x="222" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 21, 2026</title></rect>
+<rect class="day" style="animation-delay:204ms" x="234" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 22, 2026</title></rect>
+<rect class="day" style="animation-delay:212ms" x="234" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 23, 2026</title></rect>
+<rect class="day" style="animation-delay:220ms" x="234" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 24, 2026</title></rect>
+<rect class="day" style="animation-delay:228ms" x="234" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 25, 2026</title></rect>
+<rect class="day" style="animation-delay:236ms" x="234" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 26, 2026</title></rect>
+<rect class="day" style="animation-delay:244ms" x="234" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 27, 2026</title></rect>
+<rect class="day" style="animation-delay:252ms" x="234" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on February 28, 2026</title></rect>
+<rect class="day" style="animation-delay:216ms" x="246" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 1, 2026</title></rect>
+<rect class="day" style="animation-delay:224ms" x="246" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 2, 2026</title></rect>
+<rect class="day" style="animation-delay:232ms" x="246" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 3, 2026</title></rect>
+<rect class="day" style="animation-delay:240ms" x="246" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 4, 2026</title></rect>
+<rect class="day" style="animation-delay:248ms" x="246" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 5, 2026</title></rect>
+<rect class="day" style="animation-delay:256ms" x="246" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 6, 2026</title></rect>
+<rect class="day" style="animation-delay:264ms" x="246" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 7, 2026</title></rect>
+<rect class="day" style="animation-delay:228ms" x="258" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 8, 2026</title></rect>
+<rect class="day" style="animation-delay:236ms" x="258" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 9, 2026</title></rect>
+<rect class="day" style="animation-delay:244ms" x="258" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 10, 2026</title></rect>
+<rect class="day" style="animation-delay:252ms" x="258" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 11, 2026</title></rect>
+<rect class="day" style="animation-delay:260ms" x="258" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 12, 2026</title></rect>
+<rect class="day" style="animation-delay:268ms" x="258" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 13, 2026</title></rect>
+<rect class="day" style="animation-delay:276ms" x="258" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 14, 2026</title></rect>
+<rect class="day" style="animation-delay:240ms" x="270" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 15, 2026</title></rect>
+<rect class="day" style="animation-delay:248ms" x="270" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 16, 2026</title></rect>
+<rect class="day" style="animation-delay:256ms" x="270" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 17, 2026</title></rect>
+<rect class="day" style="animation-delay:264ms" x="270" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 18, 2026</title></rect>
+<rect class="day" style="animation-delay:272ms" x="270" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 19, 2026</title></rect>
+<rect class="day" style="animation-delay:280ms" x="270" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 20, 2026</title></rect>
+<rect class="day" style="animation-delay:288ms" x="270" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 21, 2026</title></rect>
+<rect class="day" style="animation-delay:252ms" x="282" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 22, 2026</title></rect>
+<rect class="day" style="animation-delay:260ms" x="282" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 23, 2026</title></rect>
+<rect class="day" style="animation-delay:268ms" x="282" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 24, 2026</title></rect>
+<rect class="day" style="animation-delay:276ms" x="282" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 25, 2026</title></rect>
+<rect class="day" style="animation-delay:284ms" x="282" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 26, 2026</title></rect>
+<rect class="day" style="animation-delay:292ms" x="282" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 27, 2026</title></rect>
+<rect class="day" style="animation-delay:300ms" x="282" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 28, 2026</title></rect>
+<rect class="day" style="animation-delay:264ms" x="294" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 29, 2026</title></rect>
+<rect class="day" style="animation-delay:272ms" x="294" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 30, 2026</title></rect>
+<rect class="day" style="animation-delay:280ms" x="294" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on March 31, 2026</title></rect>
+<rect class="day" style="animation-delay:288ms" x="294" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 1, 2026</title></rect>
+<rect class="day" style="animation-delay:296ms" x="294" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 2, 2026</title></rect>
+<rect class="day" style="animation-delay:304ms" x="294" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 3, 2026</title></rect>
+<rect class="day" style="animation-delay:312ms" x="294" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 4, 2026</title></rect>
+<rect class="day" style="animation-delay:276ms" x="306" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 5, 2026</title></rect>
+<rect class="day" style="animation-delay:284ms" x="306" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 6, 2026</title></rect>
+<rect class="day" style="animation-delay:292ms" x="306" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 7, 2026</title></rect>
+<rect class="day" style="animation-delay:300ms" x="306" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 8, 2026</title></rect>
+<rect class="day" style="animation-delay:308ms" x="306" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 9, 2026</title></rect>
+<rect class="day" style="animation-delay:316ms" x="306" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 10, 2026</title></rect>
+<rect class="day" style="animation-delay:324ms" x="306" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 11, 2026</title></rect>
+<rect class="day" style="animation-delay:288ms" x="318" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 12, 2026</title></rect>
+<rect class="day" style="animation-delay:296ms" x="318" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 13, 2026</title></rect>
+<rect class="day" style="animation-delay:304ms" x="318" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 14, 2026</title></rect>
+<rect class="day" style="animation-delay:312ms" x="318" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 15, 2026</title></rect>
+<rect class="day" style="animation-delay:320ms" x="318" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 16, 2026</title></rect>
+<rect class="day" style="animation-delay:328ms" x="318" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 17, 2026</title></rect>
+<rect class="day" style="animation-delay:336ms" x="318" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 18, 2026</title></rect>
+<rect class="day" style="animation-delay:300ms" x="330" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 19, 2026</title></rect>
+<rect class="day" style="animation-delay:308ms" x="330" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 20, 2026</title></rect>
+<rect class="day" style="animation-delay:316ms" x="330" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 21, 2026</title></rect>
+<rect class="day" style="animation-delay:324ms" x="330" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 22, 2026</title></rect>
+<rect class="day" style="animation-delay:332ms" x="330" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 23, 2026</title></rect>
+<rect class="day" style="animation-delay:340ms" x="330" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 24, 2026</title></rect>
+<rect class="day" style="animation-delay:348ms" x="330" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 25, 2026</title></rect>
+<rect class="day" style="animation-delay:312ms" x="342" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 26, 2026</title></rect>
+<rect class="day" style="animation-delay:320ms" x="342" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 27, 2026</title></rect>
+<rect class="day" style="animation-delay:328ms" x="342" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 28, 2026</title></rect>
+<rect class="day" style="animation-delay:336ms" x="342" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 29, 2026</title></rect>
+<rect class="day" style="animation-delay:344ms" x="342" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on April 30, 2026</title></rect>
+<rect class="day" style="animation-delay:352ms" x="342" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 1, 2026</title></rect>
+<rect class="day" style="animation-delay:360ms" x="342" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 2, 2026</title></rect>
+<rect class="day" style="animation-delay:324ms" x="354" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 3, 2026</title></rect>
+<rect class="day" style="animation-delay:332ms" x="354" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 4, 2026</title></rect>
+<rect class="day" style="animation-delay:340ms" x="354" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 5, 2026</title></rect>
+<rect class="day" style="animation-delay:348ms" x="354" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 6, 2026</title></rect>
+<rect class="day" style="animation-delay:356ms" x="354" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 7, 2026</title></rect>
+<rect class="day" style="animation-delay:364ms" x="354" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 8, 2026</title></rect>
+<rect class="day" style="animation-delay:372ms" x="354" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 9, 2026</title></rect>
+<rect class="day" style="animation-delay:336ms" x="366" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 10, 2026</title></rect>
+<rect class="day" style="animation-delay:344ms" x="366" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 11, 2026</title></rect>
+<rect class="day" style="animation-delay:352ms" x="366" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 12, 2026</title></rect>
+<rect class="day" style="animation-delay:360ms" x="366" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 13, 2026</title></rect>
+<rect class="day" style="animation-delay:368ms" x="366" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 14, 2026</title></rect>
+<rect class="day" style="animation-delay:376ms" x="366" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 15, 2026</title></rect>
+<rect class="day" style="animation-delay:384ms" x="366" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 16, 2026</title></rect>
+<rect class="day" style="animation-delay:348ms" x="378" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 17, 2026</title></rect>
+<rect class="day" style="animation-delay:356ms" x="378" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 18, 2026</title></rect>
+<rect class="day" style="animation-delay:364ms" x="378" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 19, 2026</title></rect>
+<rect class="day" style="animation-delay:372ms" x="378" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 20, 2026</title></rect>
+<rect class="day" style="animation-delay:380ms" x="378" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 21, 2026</title></rect>
+<rect class="day" style="animation-delay:388ms" x="378" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 22, 2026</title></rect>
+<rect class="day" style="animation-delay:396ms" x="378" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 23, 2026</title></rect>
+<rect class="day" style="animation-delay:360ms" x="390" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 24, 2026</title></rect>
+<rect class="day" style="animation-delay:368ms" x="390" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 25, 2026</title></rect>
+<rect class="day" style="animation-delay:376ms" x="390" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 26, 2026</title></rect>
+<rect class="day" style="animation-delay:384ms" x="390" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 27, 2026</title></rect>
+<rect class="day" style="animation-delay:392ms" x="390" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 28, 2026</title></rect>
+<rect class="day" style="animation-delay:400ms" x="390" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 29, 2026</title></rect>
+<rect class="day" style="animation-delay:408ms" x="390" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 30, 2026</title></rect>
+<rect class="day" style="animation-delay:372ms" x="402" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on May 31, 2026</title></rect>
+<rect class="day" style="animation-delay:380ms" x="402" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 1, 2026</title></rect>
+<rect class="day" style="animation-delay:388ms" x="402" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 2, 2026</title></rect>
+<rect class="day" style="animation-delay:396ms" x="402" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 3, 2026</title></rect>
+<rect class="day" style="animation-delay:404ms" x="402" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 4, 2026</title></rect>
+<rect class="day" style="animation-delay:412ms" x="402" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 5, 2026</title></rect>
+<rect class="day" style="animation-delay:420ms" x="402" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 6, 2026</title></rect>
+<rect class="day" style="animation-delay:384ms" x="414" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 7, 2026</title></rect>
+<rect class="day" style="animation-delay:392ms" x="414" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 8, 2026</title></rect>
+<rect class="day" style="animation-delay:400ms" x="414" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 9, 2026</title></rect>
+<rect class="day" style="animation-delay:408ms" x="414" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 10, 2026</title></rect>
+<rect class="day" style="animation-delay:416ms" x="414" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 11, 2026</title></rect>
+<rect class="day" style="animation-delay:424ms" x="414" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 12, 2026</title></rect>
+<rect class="day" style="animation-delay:432ms" x="414" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 13, 2026</title></rect>
+<rect class="day" style="animation-delay:396ms" x="426" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 14, 2026</title></rect>
+<rect class="day" style="animation-delay:404ms" x="426" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 15, 2026</title></rect>
+<rect class="day" style="animation-delay:412ms" x="426" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 16, 2026</title></rect>
+<rect class="day" style="animation-delay:420ms" x="426" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 17, 2026</title></rect>
+<rect class="day" style="animation-delay:428ms" x="426" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 18, 2026</title></rect>
+<rect class="day" style="animation-delay:436ms" x="426" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 19, 2026</title></rect>
+<rect class="day" style="animation-delay:444ms" x="426" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 20, 2026</title></rect>
+<rect class="day" style="animation-delay:408ms" x="438" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 21, 2026</title></rect>
+<rect class="day" style="animation-delay:416ms" x="438" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 22, 2026</title></rect>
+<rect class="day" style="animation-delay:424ms" x="438" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 23, 2026</title></rect>
+<rect class="day" style="animation-delay:432ms" x="438" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 24, 2026</title></rect>
+<rect class="day" style="animation-delay:440ms" x="438" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 25, 2026</title></rect>
+<rect class="day" style="animation-delay:448ms" x="438" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 26, 2026</title></rect>
+<rect class="day" style="animation-delay:456ms" x="438" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 27, 2026</title></rect>
+<rect class="day" style="animation-delay:420ms" x="450" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 28, 2026</title></rect>
+<rect class="day" style="animation-delay:428ms" x="450" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 29, 2026</title></rect>
+<rect class="day" style="animation-delay:436ms" x="450" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on June 30, 2026</title></rect>
+<rect class="day" style="animation-delay:444ms" x="450" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 1, 2026</title></rect>
+<rect class="day" style="animation-delay:452ms" x="450" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 2, 2026</title></rect>
+<rect class="day" style="animation-delay:460ms" x="450" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 3, 2026</title></rect>
+<rect class="day" style="animation-delay:468ms" x="450" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 4, 2026</title></rect>
+<rect class="day" style="animation-delay:432ms" x="462" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 5, 2026</title></rect>
+<rect class="day" style="animation-delay:440ms" x="462" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 6, 2026</title></rect>
+<rect class="day" style="animation-delay:448ms" x="462" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 7, 2026</title></rect>
+<rect class="day" style="animation-delay:456ms" x="462" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 8, 2026</title></rect>
+<rect class="day" style="animation-delay:464ms" x="462" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 9, 2026</title></rect>
+<rect class="day" style="animation-delay:472ms" x="462" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 10, 2026</title></rect>
+<rect class="day" style="animation-delay:480ms" x="462" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 11, 2026</title></rect>
+<rect class="day" style="animation-delay:444ms" x="474" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 12, 2026</title></rect>
+<rect class="day" style="animation-delay:452ms" x="474" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 13, 2026</title></rect>
+<rect class="day" style="animation-delay:460ms" x="474" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 14, 2026</title></rect>
+<rect class="day" style="animation-delay:468ms" x="474" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 15, 2026</title></rect>
+<rect class="day" style="animation-delay:476ms" x="474" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 16, 2026</title></rect>
+<rect class="day" style="animation-delay:484ms" x="474" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 17, 2026</title></rect>
+<rect class="day" style="animation-delay:492ms" x="474" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 18, 2026</title></rect>
+<rect class="day" style="animation-delay:456ms" x="486" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 19, 2026</title></rect>
+<rect class="day" style="animation-delay:464ms" x="486" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 20, 2026</title></rect>
+<rect class="day" style="animation-delay:472ms" x="486" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 21, 2026</title></rect>
+<rect class="day" style="animation-delay:480ms" x="486" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 22, 2026</title></rect>
+<rect class="day" style="animation-delay:488ms" x="486" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 23, 2026</title></rect>
+<rect class="day" style="animation-delay:496ms" x="486" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 24, 2026</title></rect>
+<rect class="day" style="animation-delay:504ms" x="486" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 25, 2026</title></rect>
+<rect class="day" style="animation-delay:468ms" x="498" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 26, 2026</title></rect>
+<rect class="day" style="animation-delay:476ms" x="498" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 27, 2026</title></rect>
+<rect class="day" style="animation-delay:484ms" x="498" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 28, 2026</title></rect>
+<rect class="day" style="animation-delay:492ms" x="498" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 29, 2026</title></rect>
+<rect class="day" style="animation-delay:500ms" x="498" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 30, 2026</title></rect>
+<rect class="day" style="animation-delay:508ms" x="498" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on July 31, 2026</title></rect>
+<rect class="day" style="animation-delay:516ms" x="498" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 1, 2026</title></rect>
+<rect class="day lit" style="animation-delay:480ms, -4830ms" x="510" y="20" width="10" height="10" rx="2" fill="#fff3b0"><title>4 contributions on August 2, 2026</title></rect>
+<rect class="day lit" style="animation-delay:488ms, -4830ms" x="510" y="32" width="10" height="10" rx="2" fill="#ffc300"><title>12 contributions on August 3, 2026</title></rect>
+<rect class="day lit" style="animation-delay:496ms, -4830ms" x="510" y="44" width="10" height="10" rx="2" fill="#e09f00"><title>15 contributions on August 4, 2026</title></rect>
+<rect class="day" style="animation-delay:504ms" x="510" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 5, 2026</title></rect>
+<rect class="day" style="animation-delay:512ms" x="510" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 6, 2026</title></rect>
+<rect class="day" style="animation-delay:520ms" x="510" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 7, 2026</title></rect>
+<rect class="day" style="animation-delay:528ms" x="510" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 8, 2026</title></rect>
+<rect class="day" style="animation-delay:492ms" x="522" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 9, 2026</title></rect>
+<rect class="day" style="animation-delay:500ms" x="522" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 10, 2026</title></rect>
+<rect class="day" style="animation-delay:508ms" x="522" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 11, 2026</title></rect>
+<rect class="day lit" style="animation-delay:516ms, -4795ms" x="522" y="56" width="10" height="10" rx="2" fill="#e09f00"><title>17 contributions on August 12, 2026</title></rect>
+<rect class="day lit" style="animation-delay:524ms, -4795ms" x="522" y="68" width="10" height="10" rx="2" fill="#ffe066"><title>7 contributions on August 13, 2026</title></rect>
+<rect class="day lit" style="animation-delay:532ms, -4795ms" x="522" y="80" width="10" height="10" rx="2" fill="#ffc300"><title>10 contributions on August 14, 2026</title></rect>
+<rect class="day" style="animation-delay:540ms" x="522" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 15, 2026</title></rect>
+<rect class="day lit" style="animation-delay:504ms, -4760ms" x="534" y="20" width="10" height="10" rx="2" fill="#fff3b0"><title>3 contributions on August 16, 2026</title></rect>
+<rect class="day lit" style="animation-delay:512ms, -4760ms" x="534" y="32" width="10" height="10" rx="2" fill="#fff3b0"><title>3 contributions on August 17, 2026</title></rect>
+<rect class="day lit" style="animation-delay:520ms, -4760ms" x="534" y="44" width="10" height="10" rx="2" fill="#e09f00"><title>14 contributions on August 18, 2026</title></rect>
+<rect class="day lit" style="animation-delay:528ms, -4760ms" x="534" y="56" width="10" height="10" rx="2" fill="#ffe066"><title>8 contributions on August 19, 2026</title></rect>
+<rect class="day lit" style="animation-delay:536ms, -4760ms" x="534" y="68" width="10" height="10" rx="2" fill="#e09f00"><title>16 contributions on August 20, 2026</title></rect>
+<rect class="day lit" style="animation-delay:544ms, -4760ms" x="534" y="80" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on August 21, 2026</title></rect>
+<rect class="day" style="animation-delay:552ms" x="534" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 22, 2026</title></rect>
+<rect class="day lit" style="animation-delay:516ms, -4725ms" x="546" y="20" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on August 23, 2026</title></rect>
+<rect class="day lit" style="animation-delay:524ms, -4725ms" x="546" y="32" width="10" height="10" rx="2" fill="#ffe066"><title>8 contributions on August 24, 2026</title></rect>
+<rect class="day lit" style="animation-delay:532ms, -4725ms" x="546" y="44" width="10" height="10" rx="2" fill="#fff3b0"><title>3 contributions on August 25, 2026</title></rect>
+<rect class="day lit" style="animation-delay:540ms, -4725ms" x="546" y="56" width="10" height="10" rx="2" fill="#ffe066"><title>5 contributions on August 26, 2026</title></rect>
+<rect class="day" style="animation-delay:548ms" x="546" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 27, 2026</title></rect>
+<rect class="day lit" style="animation-delay:556ms, -4725ms" x="546" y="80" width="10" height="10" rx="2" fill="#ffc300"><title>10 contributions on August 28, 2026</title></rect>
+<rect class="day lit" style="animation-delay:564ms, -4725ms" x="546" y="92" width="10" height="10" rx="2" fill="#ffc300"><title>12 contributions on August 29, 2026</title></rect>
+<rect class="day lit" style="animation-delay:528ms, -4690ms" x="558" y="20" width="10" height="10" rx="2" fill="#ffe066"><title>6 contributions on August 30, 2026</title></rect>
+<rect class="day" style="animation-delay:536ms" x="558" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on August 31, 2026</title></rect>
+<rect class="day lit" style="animation-delay:544ms, -4690ms" x="558" y="44" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on September 1, 2026</title></rect>
+<rect class="day" style="animation-delay:552ms" x="558" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 2, 2026</title></rect>
+<rect class="day" style="animation-delay:560ms" x="558" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 3, 2026</title></rect>
+<rect class="day" style="animation-delay:568ms" x="558" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 4, 2026</title></rect>
+<rect class="day lit" style="animation-delay:576ms, -4690ms" x="558" y="92" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on September 5, 2026</title></rect>
+<rect class="day lit" style="animation-delay:540ms, -4655ms" x="570" y="20" width="10" height="10" rx="2" fill="#ffc300"><title>11 contributions on September 6, 2026</title></rect>
+<rect class="day lit" style="animation-delay:548ms, -4655ms" x="570" y="32" width="10" height="10" rx="2" fill="#ffe066"><title>8 contributions on September 7, 2026</title></rect>
+<rect class="day" style="animation-delay:556ms" x="570" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 8, 2026</title></rect>
+<rect class="day" style="animation-delay:564ms" x="570" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 9, 2026</title></rect>
+<rect class="day lit" style="animation-delay:572ms, -4655ms" x="570" y="68" width="10" height="10" rx="2" fill="#fff3b0"><title>3 contributions on September 10, 2026</title></rect>
+<rect class="day" style="animation-delay:580ms" x="570" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 11, 2026</title></rect>
+<rect class="day" style="animation-delay:588ms" x="570" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 12, 2026</title></rect>
+<rect class="day" style="animation-delay:552ms" x="582" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 13, 2026</title></rect>
+<rect class="day lit" style="animation-delay:560ms, -4620ms" x="582" y="32" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on September 14, 2026</title></rect>
+<rect class="day" style="animation-delay:568ms" x="582" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 15, 2026</title></rect>
+<rect class="day lit" style="animation-delay:576ms, -4620ms" x="582" y="56" width="10" height="10" rx="2" fill="#fff3b0"><title>2 contributions on September 16, 2026</title></rect>
+<rect class="day" style="animation-delay:584ms" x="582" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 17, 2026</title></rect>
+<rect class="day lit" style="animation-delay:592ms, -4620ms" x="582" y="80" width="10" height="10" rx="2" fill="#fff3b0"><title>4 contributions on September 18, 2026</title></rect>
+<rect class="day" style="animation-delay:600ms" x="582" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 19, 2026</title></rect>
+<rect class="day lit" style="animation-delay:564ms, -4585ms" x="594" y="20" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on September 20, 2026</title></rect>
+<rect class="day lit" style="animation-delay:572ms, -4585ms" x="594" y="32" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on September 21, 2026</title></rect>
+<rect class="day lit" style="animation-delay:580ms, -4585ms" x="594" y="44" width="10" height="10" rx="2" fill="#ffe066"><title>5 contributions on September 22, 2026</title></rect>
+<rect class="day" style="animation-delay:588ms" x="594" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 23, 2026</title></rect>
+<rect class="day lit" style="animation-delay:596ms, -4585ms" x="594" y="68" width="10" height="10" rx="2" fill="#fff3b0"><title>3 contributions on September 24, 2026</title></rect>
+<rect class="day" style="animation-delay:604ms" x="594" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 25, 2026</title></rect>
+<rect class="day" style="animation-delay:612ms" x="594" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 26, 2026</title></rect>
+<rect class="day" style="animation-delay:576ms" x="606" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 27, 2026</title></rect>
+<rect class="day" style="animation-delay:584ms" x="606" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 28, 2026</title></rect>
+<rect class="day" style="animation-delay:592ms" x="606" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 29, 2026</title></rect>
+<rect class="day" style="animation-delay:600ms" x="606" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on September 30, 2026</title></rect>
+<rect class="day" style="animation-delay:608ms" x="606" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 1, 2026</title></rect>
+<rect class="day" style="animation-delay:616ms" x="606" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 2, 2026</title></rect>
+<rect class="day" style="animation-delay:624ms" x="606" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 3, 2026</title></rect>
+<rect class="day" style="animation-delay:588ms" x="618" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 4, 2026</title></rect>
+<rect class="day" style="animation-delay:596ms" x="618" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 5, 2026</title></rect>
+<rect class="day" style="animation-delay:604ms" x="618" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 6, 2026</title></rect>
+<rect class="day" style="animation-delay:612ms" x="618" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 7, 2026</title></rect>
+<rect class="day lit" style="animation-delay:620ms, -4515ms" x="618" y="68" width="10" height="10" rx="2" fill="#ffe066"><title>6 contributions on October 8, 2026</title></rect>
+<rect class="day lit" style="animation-delay:628ms, -4515ms" x="618" y="80" width="10" height="10" rx="2" fill="#ffc300"><title>12 contributions on October 9, 2026</title></rect>
+<rect class="day lit" style="animation-delay:636ms, -4515ms" x="618" y="92" width="10" height="10" rx="2" fill="#e09f00"><title>23 contributions on October 10, 2026</title></rect>
+<rect class="day lit" style="animation-delay:600ms, -4480ms" x="630" y="20" width="10" height="10" rx="2" fill="#e09f00"><title>65 contributions on October 11, 2026</title></rect>
+<rect class="day lit" style="animation-delay:608ms, -4480ms" x="630" y="32" width="10" height="10" rx="2" fill="#e09f00"><title>99 contributions on October 12, 2026</title></rect>
+<rect class="day lit" style="animation-delay:616ms, -4480ms" x="630" y="44" width="10" height="10" rx="2" fill="#e09f00"><title>31 contributions on October 13, 2026</title></rect>
+<rect class="day lit" style="animation-delay:624ms, -4480ms" x="630" y="56" width="10" height="10" rx="2" fill="#e09f00"><title>32 contributions on October 14, 2026</title></rect>
+<rect class="day lit" style="animation-delay:632ms, -4480ms" x="630" y="68" width="10" height="10" rx="2" fill="#ffe066"><title>5 contributions on October 15, 2026</title></rect>
+<rect class="day lit" style="animation-delay:640ms, -4480ms" x="630" y="80" width="10" height="10" rx="2" fill="#e09f00"><title>19 contributions on October 16, 2026</title></rect>
+<rect class="day lit" style="animation-delay:648ms, -4480ms" x="630" y="92" width="10" height="10" rx="2" fill="#e09f00"><title>156 contributions on October 17, 2026</title></rect>
+<rect class="day lit" style="animation-delay:612ms, -4445ms" x="642" y="20" width="10" height="10" rx="2" fill="#fff3b0"><title>2 contributions on October 18, 2026</title></rect>
+<rect class="day lit" style="animation-delay:620ms, -4445ms" x="642" y="32" width="10" height="10" rx="2" fill="#ffe066"><title>8 contributions on October 19, 2026</title></rect>
+<rect class="day lit" style="animation-delay:628ms, -4445ms" x="642" y="44" width="10" height="10" rx="2" fill="#fff3b0"><title>4 contributions on October 20, 2026</title></rect>
+<rect class="day lit" style="animation-delay:636ms, -4445ms" x="642" y="56" width="10" height="10" rx="2" fill="#ffe066"><title>7 contributions on October 21, 2026</title></rect>
+<rect class="day" style="animation-delay:644ms" x="642" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 22, 2026</title></rect>
+<rect class="day" style="animation-delay:652ms" x="642" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 23, 2026</title></rect>
+<rect class="day" style="animation-delay:660ms" x="642" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 24, 2026</title></rect>
+<rect class="day" style="animation-delay:624ms" x="654" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 25, 2026</title></rect>
+<rect class="day" style="animation-delay:632ms" x="654" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 26, 2026</title></rect>
+<rect class="day lit" style="animation-delay:640ms, -4410ms" x="654" y="44" width="10" height="10" rx="2" fill="#ffe066"><title>8 contributions on October 27, 2026</title></rect>
+<rect class="day lit" style="animation-delay:648ms, -4410ms" x="654" y="56" width="10" height="10" rx="2" fill="#ffc300"><title>9 contributions on October 28, 2026</title></rect>
+<text class="label" x="566" y="118" text-anchor="end" style="animation-delay:716ms">Less</text>
+<rect class="legend" x="572" y="110" width="10" height="10" rx="2" fill="#ebedf0" style="animation-delay:716ms"/>
+<rect class="legend" x="585" y="110" width="10" height="10" rx="2" fill="#fff3b0" style="animation-delay:756ms"/>
+<rect class="legend" x="598" y="110" width="10" height="10" rx="2" fill="#ffe066" style="animation-delay:796ms"/>
+<rect class="legend" x="611" y="110" width="10" height="10" rx="2" fill="#ffc300" style="animation-delay:836ms"/>
+<rect class="legend" x="624" y="110" width="10" height="10" rx="2" fill="#e09f00" style="animation-delay:876ms"/>
+<text class="label" x="664" y="118" text-anchor="end" style="animation-delay:916ms">More</text>
 </svg>
