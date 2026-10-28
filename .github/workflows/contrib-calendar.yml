@@ -1,14 +1,11 @@
 name: Update contribution calendar
 
 on:
+  # Scheduled/manual only: a push trigger would race with local pushes because
+  # this workflow commits the regenerated SVGs back to main.
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths-ignore:
-      - "contrib-calendar.svg"
-      - "contrib-calendar-dark.svg"
 
 permissions:
   contents: write
@@ -36,5 +33,6 @@ jobs:
             echo "Calendar is up to date"
           else
             git commit -m "Update contribution calendar"
+            git pull --rebase origin main
             git push
           fi
