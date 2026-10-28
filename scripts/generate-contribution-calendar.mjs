@@ -157,7 +157,8 @@ function render(palette) {
           : `${count} contribution${count === 1 ? "" : "s"} on ${formatDate(day.date)}`;
 
       const lit = day.level > 0;
-      const style = lit ? ` style="animation-delay:${week * 35}ms"` : "";
+      // Negative delay starts the wave immediately instead of waiting one cycle.
+      const style = lit ? ` style="animation-delay:${week * 35 - 6230}ms"` : "";
 
       svg.push(
         `<rect class="day${lit ? " lit" : ""}"${style} x="${x}" y="${y}" width="${CELL}" height="${CELL}" rx="2" fill="${palette.levels[day.level] ?? palette.levels[0]}"><title>${title}</title></rect>`,
