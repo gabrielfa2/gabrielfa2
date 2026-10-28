@@ -118,7 +118,7 @@ function render(palette) {
     `<svg xmlns="http://www.w3.org/2000/svg" width="${WIDTH}" height="${HEIGHT}" viewBox="0 0 ${WIDTH} ${HEIGHT}" role="img" aria-label="Contribution calendar for ${username}">`,
   );
   svg.push(
-    `<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:9px;fill:${palette.text}}</style>`,
+    `<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:9px;fill:${palette.text}}.day{transition:transform .12s ease;transform-box:fill-box;transform-origin:center}.day:hover{transform:scale(1.35)}.lit{animation:shimmer 7s ease-in-out infinite}@keyframes shimmer{0%,86%,100%{filter:none}89%{filter:brightness(1.35) saturate(1.25)}92%{filter:none}}@media (prefers-reduced-motion:reduce){.lit{animation:none}.day{transition:none}}</style>`,
   );
 
   // Month labels sit above the week containing the 1st of each month.
@@ -156,8 +156,11 @@ function render(palette) {
           ? `No contributions on ${formatDate(day.date)}`
           : `${count} contribution${count === 1 ? "" : "s"} on ${formatDate(day.date)}`;
 
+      const lit = day.level > 0;
+      const style = lit ? ` style="animation-delay:${week * 35}ms"` : "";
+
       svg.push(
-        `<rect x="${x}" y="${y}" width="${CELL}" height="${CELL}" rx="2" fill="${palette.levels[day.level] ?? palette.levels[0]}"><title>${title}</title></rect>`,
+        `<rect class="day${lit ? " lit" : ""}"${style} x="${x}" y="${y}" width="${CELL}" height="${CELL}" rx="2" fill="${palette.levels[day.level] ?? palette.levels[0]}"><title>${title}</title></rect>`,
       );
     }
   }
