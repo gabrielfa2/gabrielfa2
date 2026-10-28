@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="yellow.gif" width="500" align="middle" alt="Pixel art autumn landscape">
-  &nbsp;
   <img src="tech-stack.svg?v=2" width="280" align="middle" alt="Tech stack: React, Next.js, TypeScript, JavaScript, Node.js, PostgreSQL, Supabase, Tailwind CSS, HTML5, CSS, Git, GitHub, Docker, Cloudflare and Vercel">
+  &nbsp;
+  <img src="yellow.gif" width="500" align="middle" alt="Pixel art autumn landscape">
 </p>
 
 <p align="center">
