@@ -84,10 +84,15 @@ for (let row = 0; row < ROWS; row++) {
 
   rowIcons.forEach((icon, column) => {
     const x = startX + column * (ICON_SIZE + GAP);
+    const index = row * COLUMNS + column;
     cells.push(
-      `  <g class="icon-${icon.slug}" transform="translate(${x} ${y}) scale(${ICON_SIZE / 24})">\n` +
-        `    <title>${icon.title}</title>\n` +
-        `    <path d="${icon.d}"/>\n` +
+      `  <g transform="translate(${x} ${y})">\n` +
+        `    <g class="enter icon-${icon.slug}" style="animation-delay:${index * 55}ms">\n` +
+        `      <g transform="scale(${ICON_SIZE / 24})">\n` +
+        `        <title>${icon.title}</title>\n` +
+        `        <path d="${icon.d}"/>\n` +
+        `      </g>\n` +
+        `    </g>\n` +
         `  </g>`,
     );
   });
@@ -100,6 +105,18 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${WIDTH}" height="${
   <desc id="tech-stack-desc">${description}</desc>
   <style>
 ${styles}
+    .enter {
+      animation: icon-in 650ms cubic-bezier(0.22, 1, 0.36, 1) backwards;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+    @keyframes icon-in {
+      from { opacity: 0; transform: translateY(12px) scale(0.82); }
+      to { opacity: 1; transform: translateY(0) scale(1); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .enter { animation: none; }
+    }
     @media (prefers-color-scheme: dark) {
 ${darkStyles}
     }
