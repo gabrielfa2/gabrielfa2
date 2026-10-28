@@ -381,8 +381,8 @@
 <rect class="day" style="animation-delay:660ms" x="642" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 24, 2026</title></rect>
 <rect class="day" style="animation-delay:624ms" x="654" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 25, 2026</title></rect>
 <rect class="day" style="animation-delay:632ms" x="654" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on October 26, 2026</title></rect>
-<rect class="day lit" style="animation-delay:640ms, -4410ms" x="654" y="44" width="10" height="10" rx="2" fill="#ffe066"><title>8 contributions on October 27, 2026</title></rect>
-<rect class="day lit" style="animation-delay:648ms, -4410ms" x="654" y="56" width="10" height="10" rx="2" fill="#ffc300"><title>9 contributions on October 28, 2026</title></rect>
+<rect class="day lit" style="animation-delay:640ms, -4410ms" x="654" y="44" width="10" height="10" rx="2" fill="#ffc300"><title>9 contributions on October 27, 2026</title></rect>
+<rect class="day lit" style="animation-delay:648ms, -4410ms" x="654" y="56" width="10" height="10" rx="2" fill="#e09f00"><title>28 contributions on October 28, 2026</title></rect>
 <text class="label" x="566" y="118" text-anchor="end" style="animation-delay:716ms">Less</text>
 <rect class="legend" x="572" y="110" width="10" height="10" rx="2" fill="#ebedf0" style="animation-delay:716ms"/>
 <rect class="legend" x="585" y="110" width="10" height="10" rx="2" fill="#fff3b0" style="animation-delay:756ms"/>
