@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="yellow.gif" width="800" alt="Pixel art waterfall">
+  <img src="yellow.gif" width="800" alt="Pixel art autumn landscape">
 </p>
 
 <p align="center">
