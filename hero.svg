@@ -10,7 +10,7 @@
 <defs>
   <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="0">
     <stop offset="0" stop-color="#111111"/><stop offset=".42" stop-color="#111111"/>
-    <stop offset=".5" stop-color="#2f55ff"/><stop offset=".58" stop-color="#111111"/>
+    <stop offset=".5" stop-color="#e2a600"/><stop offset=".58" stop-color="#111111"/>
     <stop offset="1" stop-color="#111111"/>
     <animateTransform attributeName="gradientTransform" type="translate" values="-600 0;600 0;600 0"
       keyTimes="0;.45;1" dur="7s" begin="1.6s" repeatCount="indefinite"/>
@@ -18,7 +18,7 @@
 </defs>
 <rect width="880" height="420" rx="14" fill="#f3f3f1"/>
 <g class="f" style="animation-delay:0.00s">
-  <rect class="r" x="48" y="49" width="8" height="8" rx="2" fill="#2f55ff"/>
+  <rect class="r" x="48" y="49" width="8" height="8" rx="2" fill="#ffc81a"/>
   <text x="66" y="57" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1" fill="#6e6e73">AI BUILDER &amp; CONSULTANT</text>
 </g>
 <text class="r" style="animation-delay:0.15s" x="44" y="190" font-family="'Instrument Serif', Georgia, serif" font-size="116" letter-spacing="-2.5" fill="#111111">Gabriel</text>

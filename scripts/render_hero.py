@@ -36,7 +36,8 @@ PAPER = "#f3f3f1"
 INK = "#111111"
 INK_SOFT = "#3a3a3c"
 MUTED = "#6e6e73"
-TECH = "#2f55ff"
+SHINE = "#e2a600"  # yellow sweep across the name
+DOT = "#ffc81a"    # brand yellow
 W = 880   # full card width, GitHub's README column at 100%
 H = 420
 
@@ -93,7 +94,7 @@ def hero():
 <defs>
   <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="0">
     <stop offset="0" stop-color="{INK}"/><stop offset=".42" stop-color="{INK}"/>
-    <stop offset=".5" stop-color="{TECH}"/><stop offset=".58" stop-color="{INK}"/>
+    <stop offset=".5" stop-color="{SHINE}"/><stop offset=".58" stop-color="{INK}"/>
     <stop offset="1" stop-color="{INK}"/>
     <animateTransform attributeName="gradientTransform" type="translate" values="-600 0;600 0;600 0"
       keyTimes="0;.45;1" dur="7s" begin="1.6s" repeatCount="indefinite"/>
@@ -101,7 +102,7 @@ def hero():
 </defs>
 <rect width="{W}" height="{H}" rx="14" fill="{PAPER}"/>
 <g class="f" {d(0)}>
-  <rect class="r" x="48" y="49" width="8" height="8" rx="2" fill="{TECH}"/>
+  <rect class="r" x="48" y="49" width="8" height="8" rx="2" fill="{DOT}"/>
   <text x="66" y="57" font-family="{MONO}" font-size="12" letter-spacing="1" fill="{MUTED}">AI BUILDER</text>
 </g>
 <text class="r" {d(0.15)} x="44" y="190" font-family="{SERIF}" font-size="116" letter-spacing="-2.5" fill="{INK}">Gabriel</text>
