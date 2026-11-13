@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="hero.svg?v=2" width="880" alt="Gabriel Fah. AI builder. I'm building the next generation of business software.">
-</p>
-
-<p align="center">
-  <img src="tech-stack.svg?v=3" width="280" align="middle" alt="Tech stack: React, Next.js, TypeScript, JavaScript, Node.js, PostgreSQL, Supabase, Tailwind CSS, HTML5, CSS, Git, GitHub, Docker, Cloudflare and Vercel">
-  &nbsp;
-  <img src="yellow.svg?v=1" width="500" align="middle" alt="Pixel art autumn landscape">
+  <img src="hero.svg?v=3" width="880" alt="Gabriel Fah. AI builder. I'm building the next generation of business software.">
 </p>
 
 <p align="center">
@@ -17,9 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="title-coding-light.svg?v=1" width="880" alt="What I'm coding">
-</p>
-
-<p align="center">
-  <img src="dona-card.svg?v=1" width="880" alt="Dona, what I'm building now (private repo)">
+  <img src="dona-card.svg?v=2" width="880" alt="Dona, what I'm building now (private repo)">
 </p>
