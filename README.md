@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="avi-ascii.svg" width="420" alt="ASCII portrait that types itself in — gabrielfa2@github:~$ whoami Gabriel">
+  <img src="hero.svg?v=2" width="880" alt="Gabriel Fah. AI builder. I'm building the next generation of business software.">
 </p>
 
 <p align="center">

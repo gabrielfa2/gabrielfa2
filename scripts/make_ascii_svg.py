@@ -13,6 +13,7 @@ block cursor riding the wipe edge, staggered top -> bottom, so the whole
 portrait prints once and freezes.
 """
 from PIL import Image, ImageEnhance, ImageOps, ImageFilter
+import base64
 import html
 import os
 import sys
@@ -55,6 +56,13 @@ TITLE_TEXT = "#7d8590"
 INK = "#c9d1d9"      # the single ascii color (matches Andrew6rant)
 CURSOR = "#c9d1d9"
 
+# Embed the subset Geist Mono (AVIVASHISHTA29/fonts, SIL OFL) as a data URI so
+# every viewer renders with identical metrics: without it, the browser's
+# ui-monospace may have a narrower advance than the textLength pitch and
+# lengthAdjust="spacing" opens gaps between glyphs (vertical streaks).
+FONT_FILE = os.path.join(HERE, "..", "AVIVASHISHTA29", "fonts", "geistmono-400.woff")
+FONT_FAMILY = "'Geist Mono ASCII', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+
 # ---- reveal timing (one-shot; a cursor rasters top -> bottom) -------------
 ROW_DUR = 5.8 / ROWS  # whole portrait prints in ~6s at any resolution
 STAGGER = ROW_DUR       # == ROW_DUR -> a single cursor sweeping down
@@ -96,8 +104,12 @@ art_top = TITLEBAR_H + PAD * 0.35
 parts = []
 parts.append(
     f'<svg xmlns="http://www.w3.org/2000/svg" width="{CANVAS_W}" height="{CANVAS_H}" '
-    f'viewBox="0 0 {CANVAS_W} {CANVAS_H}" font-family="ui-monospace, SFMono-Regular, '
-    f'Menlo, Consolas, monospace">'
+    f'viewBox="0 0 {CANVAS_W} {CANVAS_H}" font-family="{FONT_FAMILY}">'
+)
+b64_font = base64.b64encode(open(FONT_FILE, "rb").read()).decode()
+parts.append(
+    f'<style>@font-face{{font-family:\'Geist Mono ASCII\';font-weight:400;'
+    f'src:url(data:font/woff;base64,{b64_font}) format(\'woff\')}}</style>'
 )
 parts.append('<defs>'
              f'<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">'
@@ -122,7 +134,7 @@ for ry, line in enumerate(rows_txt):
     delay = ry * STAGGER
     safe = html.escape(line)
     text = (f'<text xml:space="preserve" x="{PAD}" y="{y:.1f}" fill="{INK}" '
-            f'font-size="{font_size:.1f}" textLength="{ART_W}" lengthAdjust="spacing">{safe}</text>')
+            f'font-size="{font_size:.1f}" textLength="{ART_W}" lengthAdjust="spacingAndGlyphs">{safe}</text>')
 
     if STATIC:
         parts.append(text)
