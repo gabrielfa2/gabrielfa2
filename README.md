@@ -9,8 +9,5 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="contrib-calendar-dark.svg?v=3">
-    <img src="contrib-calendar.svg?v=3" width="800" alt="Contribution calendar with yellow squares">
-  </picture>
+  <img src="heatmap-card.svg?v=1" width="880" alt="Contribution graph: isn't a sprint, it's a marathon">
 </p>
