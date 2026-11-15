@@ -20,7 +20,7 @@ import { extraContributions, fetchContributions } from "./fetch-contributions.mj
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.dirname(HERE);
-const FONTS = path.join(ROOT, "AVIVASHISHTA29", "fonts");
+const FONTS = path.join(ROOT, "fonts");
 const OUT = path.join(ROOT, "activity-card.svg");
 
 const PAPER = "#f3f3f1";

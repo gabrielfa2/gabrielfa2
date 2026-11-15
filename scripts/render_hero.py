@@ -27,7 +27,7 @@ import re
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
-FONTS = os.path.join(ROOT, "AVIVASHISHTA29", "fonts")
+FONTS = os.path.join(ROOT, "fonts")
 PORTRAIT = os.path.join(ROOT, "avi-ascii.svg")
 OUT = os.path.join(ROOT, "hero.svg")
 

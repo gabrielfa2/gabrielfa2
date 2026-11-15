@@ -14,7 +14,7 @@ import path from "node:path";
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.dirname(HERE);
-const FONTS = path.join(ROOT, "AVIVASHISHTA29", "fonts");
+const FONTS = path.join(ROOT, "fonts");
 
 const INK = "#111111";
 const LEARN = "#ffc81a"; // brand yellow

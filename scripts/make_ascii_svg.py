@@ -60,7 +60,7 @@ CURSOR = "#c9d1d9"
 # every viewer renders with identical metrics: without it, the browser's
 # ui-monospace may have a narrower advance than the textLength pitch and
 # lengthAdjust="spacing" opens gaps between glyphs (vertical streaks).
-FONT_FILE = os.path.join(HERE, "..", "AVIVASHISHTA29", "fonts", "geistmono-400.woff")
+FONT_FILE = os.path.join(HERE, "..", "fonts", "geistmono-400.woff")
 FONT_FAMILY = "'Geist Mono ASCII', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
 
 # ---- reveal timing (one-shot; a cursor rasters top -> bottom) -------------
