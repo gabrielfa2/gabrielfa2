@@ -373,18 +373,18 @@
 <rect class="day lit" style="animation-delay:640ms, -4480ms" x="630" y="80" width="10" height="10" rx="2" fill="#ffe066"><title>5 contributions on November 13, 2026</title></rect>
 <rect class="day lit" style="animation-delay:648ms, -4480ms" x="630" y="92" width="10" height="10" rx="2" fill="#fff3b0"><title>3 contributions on November 14, 2026</title></rect>
 <rect class="day lit" style="animation-delay:612ms, -4445ms" x="642" y="20" width="10" height="10" rx="2" fill="#fff3b0"><title>2 contributions on November 15, 2026</title></rect>
-<rect class="day" style="animation-delay:620ms" x="642" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 16, 2026</title></rect>
-<rect class="day" style="animation-delay:628ms" x="642" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 17, 2026</title></rect>
-<rect class="day" style="animation-delay:636ms" x="642" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 18, 2026</title></rect>
-<rect class="day" style="animation-delay:644ms" x="642" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 19, 2026</title></rect>
+<rect class="day lit" style="animation-delay:620ms, -4445ms" x="642" y="32" width="10" height="10" rx="2" fill="#e09f00"><title>67 contributions on November 16, 2026</title></rect>
+<rect class="day lit" style="animation-delay:628ms, -4445ms" x="642" y="44" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on November 17, 2026</title></rect>
+<rect class="day lit" style="animation-delay:636ms, -4445ms" x="642" y="56" width="10" height="10" rx="2" fill="#fff3b0"><title>1 contribution on November 18, 2026</title></rect>
+<rect class="day lit" style="animation-delay:644ms, -4445ms" x="642" y="68" width="10" height="10" rx="2" fill="#ffe066"><title>7 contributions on November 19, 2026</title></rect>
 <rect class="day" style="animation-delay:652ms" x="642" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 20, 2026</title></rect>
 <rect class="day" style="animation-delay:660ms" x="642" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 21, 2026</title></rect>
 <rect class="day" style="animation-delay:624ms" x="654" y="20" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 22, 2026</title></rect>
-<rect class="day" style="animation-delay:632ms" x="654" y="32" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 23, 2026</title></rect>
-<rect class="day" style="animation-delay:640ms" x="654" y="44" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 24, 2026</title></rect>
-<rect class="day" style="animation-delay:648ms" x="654" y="56" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 25, 2026</title></rect>
-<rect class="day" style="animation-delay:656ms" x="654" y="68" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 26, 2026</title></rect>
-<rect class="day" style="animation-delay:664ms" x="654" y="80" width="10" height="10" rx="2" fill="#ebedf0"><title>No contributions on November 27, 2026</title></rect>
+<rect class="day lit" style="animation-delay:632ms, -4410ms" x="654" y="32" width="10" height="10" rx="2" fill="#fff3b0"><title>2 contributions on November 23, 2026</title></rect>
+<rect class="day lit" style="animation-delay:640ms, -4410ms" x="654" y="44" width="10" height="10" rx="2" fill="#e09f00"><title>56 contributions on November 24, 2026</title></rect>
+<rect class="day lit" style="animation-delay:648ms, -4410ms" x="654" y="56" width="10" height="10" rx="2" fill="#e09f00"><title>20 contributions on November 25, 2026</title></rect>
+<rect class="day lit" style="animation-delay:656ms, -4410ms" x="654" y="68" width="10" height="10" rx="2" fill="#e09f00"><title>22 contributions on November 26, 2026</title></rect>
+<rect class="day lit" style="animation-delay:664ms, -4410ms" x="654" y="80" width="10" height="10" rx="2" fill="#ffc300"><title>11 contributions on November 27, 2026</title></rect>
 <text class="label" x="566" y="118" text-anchor="end" style="animation-delay:716ms">Less</text>
 <rect class="legend" x="572" y="110" width="10" height="10" rx="2" fill="#ebedf0" style="animation-delay:716ms"/>
 <rect class="legend" x="585" y="110" width="10" height="10" rx="2" fill="#fff3b0" style="animation-delay:756ms"/>
